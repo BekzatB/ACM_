@@ -1,4 +1,3 @@
-От axaxa, соревнование: [2017] KBTU Juniors - stack queue, задача: (B) Минимальная строка, Полное решение, #
  // axaxa, Slowpoker, MC_Sailaubek #tbt
 #include <iostream>
 #include <fstream>
